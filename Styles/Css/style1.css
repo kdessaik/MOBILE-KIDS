@@ -1,13 +1,17 @@
 
-.navbar-collapse{
-    margin-left: 7%;
-   
-}
+
 .mt-lg-0{
     position: relative;
-  left: 600px;
+  left: 800px;
 }
 #Donatebtn{
   margin-top: 2px;
   margin-left: 5px;
+}
+.navbar-brand{
+  position: relative;
+  left: 200px;
+}
+.sr-only{
+  color: brown;
 }
